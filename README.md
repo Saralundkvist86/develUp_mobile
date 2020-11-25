@@ -52,3 +52,17 @@ let server = mockServer.open(<port number>)
 // close server
 mockServer.close(server);
 ```
+
+##### Example images
+
+Create Assignment as Client
+![client](https://user-images.githubusercontent.com/68189237/100222480-71cf5380-2f1a-11eb-8b7d-af34e1c57be3.png)
+
+Apply for assignment as develUper
+![develUp](https://user-images.githubusercontent.com/68189237/100222479-7136bd00-2f1a-11eb-94ad-01deb1e98029.png)
+
+Close assignment 
+![Client](https://user-images.githubusercontent.com/68189237/100222481-7267ea00-2f1a-11eb-8681-da3f5c08554e.png)
+
+Profile page
+![develUper](https://user-images.githubusercontent.com/68189237/100222484-73008080-2f1a-11eb-9738-a24ede68180c.png)
